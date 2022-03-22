@@ -1,10 +1,5 @@
 import Question from '../DTOs/Question';
 
-// would a piece of software someone else that would save the bearer token on the localstore for example 
-function authHeader() {
-    return {};
-}
-
 const QuestionsService = {
   getAnswers
 };
